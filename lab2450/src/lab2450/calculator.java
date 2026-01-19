@@ -51,4 +51,8 @@ public class calculator {
 
         scnr.close();
     }
+    
+    void hello() {
+    	System.out.println("hello");
+    }
 }
